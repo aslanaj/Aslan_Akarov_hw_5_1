@@ -18,7 +18,7 @@ public class Main {
 
         }
     }
-    // Трудности с вызовом методоты и циклом в процессе выполнения
+    // Трудности с вызовом метода и циклом в процессе выполнения
 
     public static String[] createHeroes() {
         Hero warrior = new Hero(300,25,"Physical");
